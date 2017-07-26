@@ -1,0 +1,15 @@
+HxBot for Tibia OTS 10.0
+Version 1.2, build #2017-07-22
+Copyright (c) Ascer Company 2010-2017
+
+1. System
+Program support only Microsoft Windows operating system. Specially Win7, XP, Win8. Sometimes you will have trubles with running this on Win10 and Vista. In this situation please contact with developer: hxbot1@gmail.com 
+
+2. Registration
+Short after finish instalation you will need to enter serial number allows you to using software. Other way just hit button Buy to get a new license key.
+
+3. Bugs
+First of all make sure that you are using orginal Hexera.net client other way some functions may do not working. Since there is no 100% free bugs program, please report issues to developer and wait for next patch.
+
+4. Privacy
+Software do not create hidden registry files complicated to remove.

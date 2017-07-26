@@ -1,0 +1,38 @@
+# Update v1.1
+
+- Changed Mushrooms to EatFood, now all food items can be easy eaten.
+- Added Shortkeys: 
+	1. ANTIPUSH 3031, 3492
+	2. MOUSEDROP 3031, 3492
+	3. MOUSEPUSH 3197, T
+	4. FASTSSA
+- Added Captcha system to verify humanity.
+- Improved Trial verification, will start automatically and take 7 days.
+- Added auto close bot on process exit.
+
+# Update v1.1.1
+
+- Changed connection port & added new error messages.
+
+# Upadate v.1.2
+
+- Fixed bugs:
+	1. Healing friends with potions.
+	2. Setup bot name on Shivera & Aurera-Global.
+	3. Casting empty message when no spell or shortcut in Healing Section.
+	4. Problem with running bot on intense cpu usage.
+	5. Small problem with Save Settings on Tibia.exe exit. 
+ 
+- Added a new pannel with functions:
+	1. Auto SD with Enemies.
+	2. Auto Might Ring depend on health percent.
+	3. Change Gold and Platinum Coins.
+	4. Refill ammunition to Hand and Arrow slot.
+	5. Auto Attack Monsters around you.
+
+- Added possibility to copy Magebot sio list into Friends.txt. Healing priority is still ignored.
+- Improved Advertising function: Implemented message window. Now u're able to post message on most of channels. 
+- Added License expiry days to bot pannel.
+- Now equip timer will also checked in the most of shortkeys.  
+- Added New ShortKey: UTORIS, cast utori flam, mort, vis into target.
+- Added Polish description for all functions in bot pannel: Hxbot\Info\Functions - PL.txt
