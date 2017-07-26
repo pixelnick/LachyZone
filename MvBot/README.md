@@ -22,45 +22,45 @@ Let's see what exactly you can do:
 # Update v1.2.1
 
 - Bug Fixes:
-	1. Food Eater sometimes stop eating food.
-	2. Runemaker logout if no food or blanks.
-	3. Items reader now read all items properly.
-	4. Hotkeys drop variable x, Use item with creature.
+	- Food Eater sometimes stop eating food.
+	- Runemaker logout if no food or blanks.
+	- Items reader now read all items properly.
+	- Hotkeys drop variable x, Use item with creature.
 
 
 - Added or Improved:
-	1. Injector to last active Game window, minimize to Tray and close bot if game process not exist.
-	2. Modules status bar.(Enabled/Disabled)
-	3. Mod(Tools): Re-Ammo, refill ammunition to arrow slot.
-	4. Mod(Tools): Gold Stack, auto stack Gold Coins in all containers.
-	5. Possibility to set own delay on Healer and Hotkeys modules. (Hotkeys.min=0ms, Healer.min=100ms)
-	6. Mod(Runemaker): Destination Mana Burn if user just wanna train magic level.
-	7. Mod(Runemaker): Auto stack created ammunition in container. Drop on ground [x, y] if out of capity.
-	8. Mod(Runemaker): Player logout, auto relogin, reopen backpacks and Last detected player label.
+	- Injector to last active Game window, minimize to Tray and close bot if game process not exist.
+	- Modules status bar.(Enabled/Disabled)
+	- Mod(Tools): Re-Ammo, refill ammunition to arrow slot.
+	- Mod(Tools): Gold Stack, auto stack Gold Coins in all containers.
+	- Possibility to set own delay on Healer and Hotkeys modules. (Hotkeys.min=0ms, Healer.min=100ms)
+	- Mod(Runemaker): Destination Mana Burn if user just wanna train magic level.
+	- Mod(Runemaker): Auto stack created ammunition in container. Drop on ground [x, y] if out of capity.
+	- Mod(Runemaker): Player logout, auto relogin, reopen backpacks and Last detected player label.
 
 # Update v1.2.2
 
 - Added or Improved:
-	1. Mod(Runemaker): Player show diagnostic information button.
-	2. Mod(Tools)[Fishing]: Possibility to fishing with capity limit. (unfortunately working only with visible water fields)
-	3. Mod(Tools)[Hold Creature]: Auto hold follow or target. (Set green/red square is disabled to avoid crash client)
-	4. Mod(Tools)[Spears Pickup]: Pickup spears 1sqm around your character.
-	5. New Mod(Chatter): Possibility to say messages on different channels.
-	6. New Mod(Alarms): Play sound or flash application if any condition meet requires.
+	- Mod(Runemaker): Player show diagnostic information button.
+	- Mod(Tools)[Fishing]: Possibility to fishing with capity limit. (unfortunately working only with visible water fields)
+	- Mod(Tools)[Hold Creature]: Auto hold follow or target. (Set green/red square is disabled to avoid crash client)
+	- Mod(Tools)[Spears Pickup]: Pickup spears 1sqm around your character.
+	- New Mod(Chatter): Possibility to say messages on different channels.
+	- New Mod(Alarms): Play sound or flash application if any condition meet requires.
 
 # Update v1.2.3
 
 - Bug Fixes:
-	1. Now alarms working with a single object, creature detection do not block other conditions.
-	2. Increased delay in hold position to avoid dash 2 squares.
-	3. Fixed timers in relogin/reconnect functions.
+	- Now alarms working with a single object, creature detection do not block other conditions.
+	- Increased delay in hold position to avoid dash 2 squares.
+	- Fixed timers in relogin/reconnect functions.
 
 - Added or Improved:
-	1. New Mod(Screen-Shoter): Take a screenshoot on special condition.
-	2. Mod(Alarms): New sound for each alarm condition.
-	3. Mod(Runemaker)[Player]: Force step if player on screen.
-	4. Gui(Main): Change client title on current logged character and hide gui to tray if game inactive.
-	5. Mod(Tools): Numpads dash. While Num Lock is active keys stay walking directions.	
+	- New Mod(Screen-Shoter): Take a screenshoot on special condition.
+	- Mod(Alarms): New sound for each alarm condition.
+	- Mod(Runemaker)[Player]: Force step if player on screen.
+	- Gui(Main): Change client title on current logged character and hide gui to tray if game inactive.
+	- Mod(Tools): Numpads dash. While Num Lock is active keys stay walking directions.	
 
 # Update v1.2.4
 
