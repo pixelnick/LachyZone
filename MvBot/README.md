@@ -21,8 +21,6 @@ Let's see what exactly you can do:
 
 Contact: hxbot1@gmail.com
 
-
-
 Regards,
 
 Ascer
