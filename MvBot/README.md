@@ -65,50 +65,50 @@ Let's see what exactly you can do:
 # Update v1.2.4
 
 - Bug Fixes:
-	1. Close bot in tray now works ok.
-	2. Mod(Chatter): Edit message now replace index than delete and create new.
-	3. Mod(Tools)[Dash]: Added min delay 10ms to avoid crashing _Send_Packet() func.
-	4. Mod(Runemaker)[Destination:LeftHand]: Now runemaker will deposit rune to last used backpack or just take with empty slots if last is full.
-	5. Mod(Runemaker)[Relogin:OpenBackpacks]: Improved function to open backpack if ids are this same. When Backpack will miss(user deposit or smth) func break loop on last avaiable to open.
-	6. Mod(Hotkeys)[Use On Yourself]: Fixed bug with drinking flasks.
-	7. Mod(Alarms)[Hold Position]: Set priority=1 to pos keeper works with other conditions.
+	- Close bot in tray now works ok.
+	- Mod(Chatter): Edit message now replace index than delete and create new.
+	- Mod(Tools)[Dash]: Added min delay 10ms to avoid crashing _Send_Packet() func.
+	- Mod(Runemaker)[Destination:LeftHand]: Now runemaker will deposit rune to last used backpack or just take with empty slots if last is full.
+	- Mod(Runemaker)[Relogin:OpenBackpacks]: Improved function to open backpack if ids are this same. When Backpack will miss(user deposit or smth) func break loop on last avaiable to open.
+	- Mod(Hotkeys)[Use On Yourself]: Fixed bug with drinking flasks.
+	- Mod(Alarms)[Hold Position]: Set priority=1 to pos keeper works with other conditions.
 
 - Added or Improved:
-	1. Disabled function to hide gui when Client window inactive (bugged with other mod pannels, will restored later)
-	2. Added Safe List to Mod(Alarms) and Mod(Runemaker).
-	3. Increasing delay to 200ms in th most of modules.
-	4. Optimized functions in all modules to eat less CPU. Decreasing around 250%.
-	5. Added prototype of Targeting. Creature reachable won't work now.
+	- Disabled function to hide gui when Client window inactive (bugged with other mod pannels, will restored later)
+	- Added Safe List to Mod(Alarms) and Mod(Runemaker).
+	- Increasing delay to 200ms in th most of modules.
+	- Optimized functions in all modules to eat less CPU. Decreasing around 250%.
+	- Added prototype of Targeting. Creature reachable won't work now.
 
 # Update v1.2.5	
 
 - Bug Fixes:
-	1. Mod(Healer,Hotkeys)[Use On YourSelf]: fixed drinking vials.
-	2. Mod(Hotkeys)[With Crosshairs]: Renamed to "Use Object". That was a misstake while creating combobox.
-	3. Mod(Tools)[Fishing]: Fixed bug with error ~10k line.
-	4. Mod(Tools)[Hold Creature]: Disabled red square to stop debuging.
+	- Mod(Healer,Hotkeys)[Use On YourSelf]: fixed drinking vials.
+	- Mod(Hotkeys)[With Crosshairs]: Renamed to "Use Object". That was a misstake while creating combobox.
+	- Mod(Tools)[Fishing]: Fixed bug with error ~10k line.
+	- Mod(Tools)[Hold Creature]: Disabled red square to stop debuging.
 
 - Added or Improved:
-	1. Mod(Healer)[Heal Friends]: added connection to Friends List.txt(removed priority) also added min mana need to heal.
-	2. Mod(ScreenShooter)[Creature]: will miss creatures in Friends List.txt.
-	3. Implemented new map/battle structure reader function. Fast and smooth. (IMPORTANT! MAY SOMETIMES CRASH CLIENT WHEN RELOGIN. PLEASE REPORT THIS CONDITION.)
-	4. Mod(Targeting): Improved creature reachabilty.
-	5. Improved _Self_WalkTo() function to reach possible position if source is blocked.
-	6. Added Mod Walker with a few simple actions.
+	- Mod(Healer)[Heal Friends]: added connection to Friends List.txt(removed priority) also added min mana need to heal.
+	- Mod(ScreenShooter)[Creature]: will miss creatures in Friends List.txt.
+	- Implemented new map/battle structure reader function. Fast and smooth. (IMPORTANT! MAY SOMETIMES CRASH CLIENT WHEN RELOGIN. PLEASE REPORT THIS CONDITION.)
+	- Mod(Targeting): Improved creature reachabilty.
+	- Improved _Self_WalkTo() function to reach possible position if source is blocked.
+	- Added Mod Walker with a few simple actions.
 
 # Update v1.3.0	
 
 - Bug Fixes:
-	1. Fixed bug with walker stuck when target out of screen.
-	2. Mod(Walker)[Tool][Machete]: Re-worked function.
-	3. Mod(Walker): Re-build _Self_WalkTo function. May work a little strange but shouldn't crash client.
-	4. Mod(Targeting)[Keep Realistic,Face,Digitional]: Check function now reading small array with: Holes, Stairs and Fields(Fire,Pox,Energy) and do not walk on this titles.
+	- Fixed bug with walker stuck when target out of screen.
+	- Mod(Walker)[Tool][Machete]: Re-worked function.
+	- Mod(Walker): Re-build _Self_WalkTo function. May work a little strange but shouldn't crash client.
+	- Mod(Targeting)[Keep Realistic,Face,Digitional]: Check function now reading small array with: Holes, Stairs and Fields(Fire,Pox,Energy) and do not walk on this titles.
 
 
 - Added or Improved:
-	1. Improved reading Nodes & Stands when Targeting is Enabled.
-	2. Removed $WS_MOSTTOP condition from all Mods (miss Walker). Added Exit & Minimize buttons.
-	3. Mod(Walker)[Action][Extra]: added Switch Label action.
+	- Improved reading Nodes & Stands when Targeting is Enabled.
+	- Removed $WS_MOSTTOP condition from all Mods (miss Walker). Added Exit & Minimize buttons.
+	- Mod(Walker)[Action][Extra]: added Switch Label action.
 
 # Update v1.3.1	
 
@@ -117,9 +117,9 @@ Let's see what exactly you can do:
 	2. Small bug with Tray Icon.
 
 - Added or Improved:
-	1. Added Mod(Save & Load Settings). Now you are able to save your configs in txt file. Warring! Reopen bacpack will not saved.
-	2. Implemented server license veryfication.
-	3. Disabled Mod(Cavebot) until memory bugs with attack creatures and walking long distance will be fixed.
+	- Added Mod(Save & Load Settings). Now you are able to save your configs in txt file. Warring! Reopen bacpack will not saved.
+	- Implemented server license veryfication.
+	- Disabled Mod(Cavebot) until memory bugs with attack creatures and walking long distance will be fixed.
 
 Contact: hxbot1@gmail.com
 
