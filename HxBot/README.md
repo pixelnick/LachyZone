@@ -1,5 +1,5 @@
 # HxBot v1.2, 2017.07.22
-Professional bot for Hexera.net client.
+Professional bot for Hexera.net client and other 10.0 OTS.
 
 Program contains a lot of powerfull functions make you better than other players. 
 Included CRC32 coding allow you to execute modules much faster with a little CPU usage.
