@@ -113,8 +113,8 @@ Let's see what exactly you can do:
 # Update v1.3.1	
 
 - Bug Fixes:
-	1. Fixed bug with reconnect (blocking ip connection on save server) 
-	2. Small bug with Tray Icon.
+	- Fixed bug with reconnect (blocking ip connection on save server) 
+	- Small bug with Tray Icon.
 
 - Added or Improved:
 	- Added Mod(Save & Load Settings). Now you are able to save your configs in txt file. Warring! Reopen bacpack will not saved.
