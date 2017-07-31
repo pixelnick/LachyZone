@@ -35,7 +35,7 @@ Let's see what exactly you can do:
 
 - Added or Improved:
 	- Speedup AntiPara function.
-	- Full Tibians.otg server compatibile.
+	- Full Tibians.org server compatibile.
 
 
 
