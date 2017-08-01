@@ -67,4 +67,3 @@ Let's see what exactly you can do:
 # Update v1.2.1
 
 - Server fixes
-- Added Polish description for all functions in bot pannel: Hxbot\Info\Functions - PL.txt
