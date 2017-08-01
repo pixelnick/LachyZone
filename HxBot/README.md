@@ -1,4 +1,4 @@
-# HxBot v1.2, 2017.07.22
+# HxBot v1.2.1, 2017.08.01
 Professional bot for Hexera.net client and other 10.0 OTS.
 
 Program contains a lot of powerfull functions make you better than other players. 
@@ -37,8 +37,6 @@ Let's see what exactly you can do:
 - Improved Trial verification, will start automatically and take 7 days.
 - Added auto close bot on process exit.
 
-Contact: hxbot1@gmail.com
-
 # Update v1.1.1
 
 - Changed connection port & added new error messages.
@@ -64,4 +62,9 @@ Contact: hxbot1@gmail.com
 - Added License expiry days to bot pannel.
 - Now equip timer will also checked in the most of shortkeys.  
 - Added New ShortKey: UTORIS, cast utori flam, mort, vis into target.
+- Added Polish description for all functions in bot pannel: Hxbot\Info\Functions - PL.txt
+
+# Update v1.2.1
+
+- Server fixes
 - Added Polish description for all functions in bot pannel: Hxbot\Info\Functions - PL.txt
