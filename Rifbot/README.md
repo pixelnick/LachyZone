@@ -1,4 +1,4 @@
-# Rifbot v1.1.0, 2017.07.31
+# Rifbot v1.1.0, 2017.08.10
 Basic bot for Tibia v7.4
 
 Program support edited Tibia 7.4 (included *dll) such as Iriana.net (ThoraOT), RealisticWar and Tibians.org not at all.
@@ -35,7 +35,15 @@ Let's see what exactly you can do:
 
 - Added or Improved:
 	- Speedup AntiPara function.
-	- Full Tibians.org server compatibile.
+
+
+# Update v1.2.0
+
+- Added compatibile with Tibians.org
+
+# Update v1.3.0
+
+- Added compatibile with OldWar.
 
 
 
