@@ -1,4 +1,4 @@
-# Rifbot v1.3.0, 2017.08.10
+# Rifbot v1.3.1, 2017.08.13
 Basic bot for Tibia v7.4
 
 Program support edited Tibia 7.4 (included *dll) such as Iriana.net (ThoraOT), RealisticWar and Tibians.org not at all.
@@ -45,6 +45,9 @@ Let's see what exactly you can do:
 
 - Added compatibile with OldWar.
 
+# Update 1.3.1
+
+- Added shotkey mouse drop id1, id2
 
 
 Contact: hxbot1@gmail.com
