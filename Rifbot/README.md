@@ -1,8 +1,8 @@
-# Rifbot v1.3.1, 2017.08.13
+# Rifbot v1.3.1, 2017.08.14
 Basic bot for Tibia v7.4
 
-Program support edited Tibia 7.4 (included *dll) such as Iriana.net (ThoraOT), RealisticWar and Tibians.org not at all.
-Other servers need to be tested by users. Futures updates should bring the new protocols.
+Program support edited Tibia 7.4 (included *dll) or just basic client, other need to be tested by users. Futures updates should bring the new protocols.
+
 
 Let's see what exactly you can do:
 
@@ -47,7 +47,8 @@ Let's see what exactly you can do:
 
 # Update 1.3.1
 
-- Added shotkey mouse drop id1, id2
+- Added compatibile with Waropolis.net
+- Added shotkey mousedrop 3031, 3492
 
 
 Contact: hxbot1@gmail.com
