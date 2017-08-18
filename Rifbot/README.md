@@ -1,4 +1,4 @@
-# Rifbot v1.3.1, 2017.08.16
+# Rifbot v1.4, 2017.08.18
 Basic bot for Tibia v7.4
 
 Program support edited Tibia 7.4 (included *dll) or just basic client, other need to be tested by users. Futures updates should bring the new protocols.
@@ -50,6 +50,11 @@ Let's see what exactly you can do:
 - Added compatibile with Waropolis.net
 - Added shotkey mousedrop 3031, 3492
 - v2: fixed injecting to RealisticWar
+
+# Update 1.4.0
+
+- Added compatibile with Eloth client (Huntia.org now)
+
 
 Contact: hxbot1@gmail.com
 
