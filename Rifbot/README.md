@@ -1,7 +1,7 @@
-# Rifbot v1.4, 2017.08.18
-Basic bot for Tibia v7.4
+# Rifbot v1.4.1, 2017.08.26
+Basic bot for Tibia v7.4 - 8.54
 
-Program support edited Tibia 7.4 (included *dll) or just basic client, other need to be tested by users. Futures updates should bring the new protocols.
+Buid in process injector allow you to run bot on most of Tibia clients 7.4 - 8.54.
 
 
 Let's see what exactly you can do:
@@ -55,6 +55,15 @@ Let's see what exactly you can do:
 
 - Added compatibile with Eloth client (Huntia.org now)
 
+# Update v1.4.1
+
+- Bug Fixes:
+	- Advertising on 8.54 protocol.
+
+- Added or Improved:
+	- Process injector.
+	- Runemaker mana burn when no blank runes.
+	- New shortkey: lastrune 3160 - use rune with last targetID. Required on 7.72 antibot client (Waropolis)
 
 Contact: hxbot1@gmail.com
 
