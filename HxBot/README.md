@@ -1,4 +1,4 @@
-# HxBot v1.2.1, 2017.08.01
+# HxBot v1.2.1, 2017.08.26
 Professional bot for Hexera.net client and other 10.0 OTS.
 
 Program contains a lot of powerfull functions make you better than other players. 
@@ -67,3 +67,4 @@ Let's see what exactly you can do:
 # Update v1.2.1
 
 - Server fixes
+- A little minor changes.
